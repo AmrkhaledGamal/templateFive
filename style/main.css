@@ -44,7 +44,7 @@ header li a {
   height: 100vh;
 }
 
-.landing .container {
+.landing .Section-Content {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -134,7 +134,7 @@ header li a {
   border-bottom: 1px solid hsl(var(--Bright-Gray));
 }
 
-.Facts .container {
+.Facts .Section-Content {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(265px, 1fr));
   gap: 140px;
